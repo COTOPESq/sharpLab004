@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jcQoFA5hR7Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\slava\\source\\repos\\lab004\\lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\slava\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.33\\microsoft.netcore.app.host.win-x86.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
